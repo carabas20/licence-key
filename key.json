@@ -7,7 +7,7 @@
         },
         {
             "key": "licentatest",
-            "max_users": 10,
+            "max_users": 1,
             "expiration_date": "2024-06-30"
         }
     ]
