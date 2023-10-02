@@ -1,0 +1,14 @@
+{
+    "licenses": [
+        {
+            "key": "cliMtmfmLQg7obwRPrrh0LDnL",
+            "max_users": 1,
+            "expiration_date": "2023-12-31"
+        },
+        {
+            "key": "xyz456",
+            "max_users": 10,
+            "expiration_date": "2024-06-30"
+        }
+    ]
+}
