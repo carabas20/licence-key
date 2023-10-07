@@ -1,9 +1,9 @@
 {
     "licenses": [
         {
-            "key": "abc123",
-            "machine_id": "b7f58e9fde2e6f1d3e1b09d8a0f437a67a3fe4d1b4962e39eaac75e6a9c51f4a",
-            "max_users": 5,
+            "key": "mongolusrapidos",
+            "machine_id": "9902eaaf01a77009bc67085241dc357f089490e3fb64693f8a73c4b1c3f9040b",
+            "max_users": 1,
             "expiration_date": "2023-12-31"
         },
         {
