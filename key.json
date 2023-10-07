@@ -15,7 +15,7 @@
         {
             "key": "babuincucurulrosu123",
             "machine_id": "5e277244aad5b6a95244a92015a0fe235fa41875f011a30e0ca944b6689f8b9f",
-            "max_users": 100,
+            "max_users": 1000,
             "expiration_date": "2024-06-30"
         }
     ]
