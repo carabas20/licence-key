@@ -1,13 +1,15 @@
 {
     "licenses": [
         {
-            "key": "asdfedc123",
-            "max_users": 1,
-            "expiration_date": "2024-12-31"
+            "key": "abc123",
+            "machine_id": "b7f58e9fde2e6f1d3e1b09d8a0f437a67a3fe4d1b4962e39eaac75e6a9c51f4a",
+            "max_users": 5,
+            "expiration_date": "2023-12-31"
         },
         {
-            "key": "licenta2",
-            "max_users": 1,
+            "key": "xyz456",
+            "machine_id": "6c826cf883f3b6ec0e97fe2ecf5206ee6e9e1f3d4cc4f4dbfe9c5370a6033eaa",
+            "max_users": 10,
             "expiration_date": "2024-06-30"
         }
     ]
